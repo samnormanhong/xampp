@@ -1,0 +1,71 @@
+[Sat Sep 01 20:41:43.618234 2018] [ssl:warn] [pid 7960:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 20:41:43.835247 2018] [ssl:warn] [pid 7960:tid 256] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 20:41:43.931252 2018] [mpm_winnt:notice] [pid 7960:tid 256] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0i PHP/7.2.9 configured -- resuming normal operations
+[Sat Sep 01 20:41:43.931252 2018] [mpm_winnt:notice] [pid 7960:tid 256] AH00456: Apache Lounge VC15 Server built: Aug 15 2018 11:10:17
+[Sat Sep 01 20:41:43.931252 2018] [core:notice] [pid 7960:tid 256] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Sep 01 20:41:43.943253 2018] [mpm_winnt:notice] [pid 7960:tid 256] AH00418: Parent: Created child process 4260
+[Sat Sep 01 20:41:46.832418 2018] [ssl:warn] [pid 4260:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 20:41:47.017429 2018] [ssl:warn] [pid 4260:tid 268] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 20:41:47.108434 2018] [mpm_winnt:notice] [pid 4260:tid 268] AH00354: Child: Starting 150 worker threads.
+[Sat Sep 01 20:42:37.786332 2018] [ssl:warn] [pid 9280:tid 264] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 20:42:37.928341 2018] [ssl:warn] [pid 9280:tid 264] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 20:42:37.990344 2018] [mpm_winnt:notice] [pid 9280:tid 264] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0i PHP/7.2.9 configured -- resuming normal operations
+[Sat Sep 01 20:42:37.990344 2018] [mpm_winnt:notice] [pid 9280:tid 264] AH00456: Apache Lounge VC15 Server built: Aug 15 2018 11:10:17
+[Sat Sep 01 20:42:37.990344 2018] [core:notice] [pid 9280:tid 264] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Sep 01 20:42:38.000345 2018] [mpm_winnt:notice] [pid 9280:tid 264] AH00418: Parent: Created child process 9616
+[Sat Sep 01 20:42:41.120523 2018] [ssl:warn] [pid 9616:tid 276] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 20:42:41.263531 2018] [ssl:warn] [pid 9616:tid 276] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 20:42:41.338536 2018] [mpm_winnt:notice] [pid 9616:tid 276] AH00354: Child: Starting 150 worker threads.
+[Sat Sep 01 22:21:16.232848 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.233848 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.233848 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.235848 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.236848 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.237848 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.238849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.240849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.241849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.242849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.243849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.244849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.245849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.246849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.246849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.247849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.248849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.249849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.250849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.250849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:21:16.251849 2018] [authz_core:error] [pid 9616:tid 1564] [client ::1:50890] AH01630: client denied by server configuration: C:/xampp/webalizer
+[Sat Sep 01 22:35:48.120136 2018] [mpm_winnt:notice] [pid 9280:tid 264] AH00428: Parent: child process 9616 exited with status 1073807364 -- Restarting.
+[Sat Sep 01 23:11:39.192654 2018] [ssl:warn] [pid 7612:tid 264] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 23:11:39.439668 2018] [core:warn] [pid 7612:tid 264] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Sep 01 23:11:39.455669 2018] [ssl:warn] [pid 7612:tid 264] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 23:11:39.943697 2018] [mpm_winnt:notice] [pid 7612:tid 264] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0i PHP/7.2.9 configured -- resuming normal operations
+[Sat Sep 01 23:11:39.943697 2018] [mpm_winnt:notice] [pid 7612:tid 264] AH00456: Apache Lounge VC15 Server built: Aug 15 2018 11:10:17
+[Sat Sep 01 23:11:39.943697 2018] [core:notice] [pid 7612:tid 264] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat Sep 01 23:11:39.952698 2018] [mpm_winnt:notice] [pid 7612:tid 264] AH00418: Parent: Created child process 4764
+[Sat Sep 01 23:11:43.096877 2018] [ssl:warn] [pid 4764:tid 276] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 23:11:43.246886 2018] [ssl:warn] [pid 4764:tid 276] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat Sep 01 23:11:43.315890 2018] [mpm_winnt:notice] [pid 4764:tid 276] AH00354: Child: Starting 150 worker threads.
+[Sun Sep 02 00:42:54.650449 2018] [mpm_winnt:notice] [pid 7612:tid 264] AH00428: Parent: child process 4764 exited with status 1073807364 -- Restarting.
+[Sun Sep 02 07:54:59.588625 2018] [ssl:warn] [pid 8636:tid 264] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 02 07:55:00.357669 2018] [core:warn] [pid 8636:tid 264] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Sep 02 07:55:00.378670 2018] [ssl:warn] [pid 8636:tid 264] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 02 07:55:00.975704 2018] [mpm_winnt:notice] [pid 8636:tid 264] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0i PHP/7.2.9 configured -- resuming normal operations
+[Sun Sep 02 07:55:00.975704 2018] [mpm_winnt:notice] [pid 8636:tid 264] AH00456: Apache Lounge VC15 Server built: Aug 15 2018 11:10:17
+[Sun Sep 02 07:55:00.975704 2018] [core:notice] [pid 8636:tid 264] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Sep 02 07:55:00.988705 2018] [mpm_winnt:notice] [pid 8636:tid 264] AH00418: Parent: Created child process 4516
+[Sun Sep 02 07:55:04.163886 2018] [ssl:warn] [pid 4516:tid 276] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 02 07:55:04.344897 2018] [ssl:warn] [pid 4516:tid 276] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 02 07:55:04.431902 2018] [mpm_winnt:notice] [pid 4516:tid 276] AH00354: Child: Starting 150 worker threads.
+[Sun Sep 02 10:03:20.538005 2018] [ssl:warn] [pid 4976:tid 264] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 02 10:03:20.678405 2018] [core:warn] [pid 4976:tid 264] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Sep 02 10:03:20.694005 2018] [ssl:warn] [pid 4976:tid 264] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 02 10:03:21.193206 2018] [mpm_winnt:notice] [pid 4976:tid 264] AH00455: Apache/2.4.34 (Win32) OpenSSL/1.1.0i PHP/7.2.9 configured -- resuming normal operations
+[Sun Sep 02 10:03:21.193206 2018] [mpm_winnt:notice] [pid 4976:tid 264] AH00456: Apache Lounge VC15 Server built: Aug 15 2018 11:10:17
+[Sun Sep 02 10:03:21.193206 2018] [core:notice] [pid 4976:tid 264] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun Sep 02 10:03:21.208806 2018] [mpm_winnt:notice] [pid 4976:tid 264] AH00418: Parent: Created child process 5580
+[Sun Sep 02 10:03:24.063611 2018] [ssl:warn] [pid 5580:tid 276] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 02 10:03:24.219611 2018] [ssl:warn] [pid 5580:tid 276] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun Sep 02 10:03:24.282011 2018] [mpm_winnt:notice] [pid 5580:tid 276] AH00354: Child: Starting 150 worker threads.

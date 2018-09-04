@@ -1,0 +1,98 @@
+오후 8:42:21  [main] 	Initializing Control Panel
+오후 8:42:21  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+오후 8:42:21  [main] 	XAMPP Version: 7.2.9
+오후 8:42:21  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+오후 8:42:21  [main] 	You are not running with administrator rights! This will work for
+오후 8:42:21  [main] 	most application stuff but whenever you do something with services
+오후 8:42:21  [main] 	there will be a security dialogue or things will break! So think 
+오후 8:42:21  [main] 	about running this application with administrator rights!
+오후 8:42:21  [main] 	XAMPP Installation Directory: "c:\xampp\"
+오후 8:42:21  [main] 	Checking for prerequisites
+오후 8:42:22  [main] 	All prerequisites found
+오후 8:42:22  [main] 	Initializing Modules
+오후 8:42:22  [main] 	The Mercury module is disabled
+오후 8:42:22  [main] 	Starting Check-Timer
+오후 8:42:22  [main] 	Control Panel Ready
+오후 8:42:34  [Apache] 	Attempting to start Apache app...
+오후 8:42:34  [Apache] 	Status change detected: running
+오후 8:42:35  [mysql] 	Attempting to start MySQL app...
+오후 8:42:36  [mysql] 	Status change detected: running
+오후 10:35:03  [main] 	Deinitializing Modules
+오후 10:35:03  [main] 	Deinitializing Control Panel
+
+오후 11:11:16  [main] 	Initializing Control Panel
+오후 11:11:16  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+오후 11:11:16  [main] 	XAMPP Version: 7.2.9
+오후 11:11:16  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+오후 11:11:16  [main] 	You are not running with administrator rights! This will work for
+오후 11:11:16  [main] 	most application stuff but whenever you do something with services
+오후 11:11:16  [main] 	there will be a security dialogue or things will break! So think 
+오후 11:11:16  [main] 	about running this application with administrator rights!
+오후 11:11:16  [main] 	XAMPP Installation Directory: "c:\xampp\"
+오후 11:11:16  [main] 	Checking for prerequisites
+오후 11:11:17  [main] 	All prerequisites found
+오후 11:11:17  [main] 	Initializing Modules
+오후 11:11:18  [main] 	The Mercury module is disabled
+오후 11:11:19  [main] 	Starting Check-Timer
+오후 11:11:19  [main] 	Control Panel Ready
+오후 11:11:23  [Apache] 	Attempting to start Apache app...
+오후 11:11:23  [Apache] 	Status change detected: running
+오후 11:11:23  [mysql] 	Attempting to start MySQL app...
+오후 11:11:32  [mysql] 	Status change detected: running
+오전 12:42:54  [main] 	Deinitializing Modules
+오전 12:42:54  [main] 	Deinitializing Control Panel
+
+오전 7:38:39  [main] 	Initializing Control Panel
+오전 7:38:39  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+오전 7:38:39  [main] 	XAMPP Version: 7.2.9
+오전 7:38:39  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+오전 7:38:39  [main] 	You are not running with administrator rights! This will work for
+오전 7:38:39  [main] 	most application stuff but whenever you do something with services
+오전 7:38:39  [main] 	there will be a security dialogue or things will break! So think 
+오전 7:38:39  [main] 	about running this application with administrator rights!
+오전 7:38:39  [main] 	XAMPP Installation Directory: "c:\xampp\"
+오전 7:38:39  [main] 	Checking for prerequisites
+오전 7:38:40  [main] 	All prerequisites found
+오전 7:38:40  [main] 	Initializing Modules
+오전 7:38:40  [main] 	The Mercury module is disabled
+오전 7:38:40  [main] 	Starting Check-Timer
+오전 7:38:40  [main] 	Control Panel Ready
+오전 7:38:43  [mysql] 	Attempting to start MySQL app...
+오전 7:38:46  [mysql] 	Status change detected: running
+오전 7:54:52  [Apache] 	Attempting to start Apache app...
+오전 7:54:53  [Apache] 	Status change detected: running
+오전 8:57:49  [Apache] 	Attempting to stop Apache (PID: 8636)
+오전 8:57:49  [Apache] 	Attempting to stop Apache (PID: 4516)
+오전 8:57:49  [Apache] 	Status change detected: stopped
+오전 8:57:50  [mysql] 	Attempting to stop MySQL app...
+오전 8:57:51  [mysql] 	Status change detected: stopped
+오전 8:57:56  [main] 	Deinitializing Modules
+오전 8:57:56  [main] 	Deinitializing Control Panel
+
+오후 1:37:39  [main] 	Initializing Control Panel
+오후 1:37:39  [main] 	Windows Version: Windows 7 Ultimate SP1 64-bit
+오후 1:37:39  [main] 	XAMPP Version: 7.2.9
+오후 1:37:39  [main] 	Control Panel Version: 3.2.2  [ Compiled: Nov 12th 2015 ]
+오후 1:37:39  [main] 	You are not running with administrator rights! This will work for
+오후 1:37:39  [main] 	most application stuff but whenever you do something with services
+오후 1:37:39  [main] 	there will be a security dialogue or things will break! So think 
+오후 1:37:39  [main] 	about running this application with administrator rights!
+오후 1:37:39  [main] 	XAMPP Installation Directory: "c:\xampp\"
+오후 1:37:39  [main] 	Checking for prerequisites
+오후 1:37:39  [main] 	All prerequisites found
+오후 1:37:39  [main] 	Initializing Modules
+오후 1:37:39  [main] 	The Mercury module is disabled
+오후 1:37:39  [main] 	Starting Check-Timer
+오후 1:37:39  [main] 	Control Panel Ready
+오후 9:36:26  [mysql] 	Status change detected: running
+오후 9:36:45  [mysql] 	Status change detected: stopped
+오후 9:36:45  [mysql] 	Error: MySQL shutdown unexpectedly.
+오후 9:36:45  [mysql] 	This may be due to a blocked port, missing dependencies, 
+오후 9:36:45  [mysql] 	improper privileges, a crash, or a shutdown by another method.
+오후 9:36:45  [mysql] 	Press the Logs button to view error logs and check
+오후 9:36:45  [mysql] 	the Windows Event Viewer for more clues
+오후 9:36:45  [mysql] 	If you need more help, copy and post this
+오후 9:36:45  [mysql] 	entire log window on the forums
+오후 9:23:38  [main] 	Deinitializing Modules
+오후 9:23:38  [main] 	Deinitializing Control Panel
+
